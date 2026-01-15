@@ -1,0 +1,6 @@
+condition,temperature_range,humidity_range
+Sunny,Warm (20-30°C),Low (30-50%)
+Cloudy,Mild (15-25°C),Medium (50-70%)
+Rainy,Cool (10-20°C),High (70-90%)
+Hot,Hot (30-40°C),Low (20-40%)
+Cold,Cold (0-15°C),Medium (40-60%)

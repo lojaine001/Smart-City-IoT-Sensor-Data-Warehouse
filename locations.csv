@@ -1,0 +1,9 @@
+district,zone_type,population_density
+Downtown,Commercial,High
+Industrial Zone,Industrial,Medium
+North Residential,Residential,High
+South Residential,Residential,Medium
+West Park,Recreational,Low
+East Suburb,Residential,Low
+Tech District,Commercial,Medium
+Harbor Area,Industrial,Low
