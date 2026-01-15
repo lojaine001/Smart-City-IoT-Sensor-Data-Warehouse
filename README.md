@@ -176,11 +176,4 @@ smart-city-dw/
 - anomaly_flag
 - created_at
 
-## Notes for Presentation
 
-- Demonstrates complete ETL workflow
-- Shows data quality handling (nulls, duplicates, anomalies)
-- Star schema with proper foreign key relationships
-- Includes performance optimization (indexes)
-- Realistic smart city use case
-- Comprehensive analytics queries
